@@ -1,0 +1,9 @@
+# *
+user-agent: *
+Allow: /
+
+# Host
+Host: https://jade-lokum-dd9867.netlify.app/
+
+#Sitemaps
+Sitemap: https://jade-lokum-dd9867.netlify.app/sitemap.xml
